@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "942247664298",
+    "project_id": "flutterlearn-firebase-tutarial",
+    "storage_bucket": "flutterlearn-firebase-tutarial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942247664298:android:7eaa7c9ec0002a35fbced3",
+        "android_client_info": {
+          "package_name": "com.webneshin.flutter_learning_firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942247664298-7q9fkn8jnc1313jd4bk82tgoa1edmp1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJK1kKt_XJaRuTpAYQLbQfsAzgvz2bhzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942247664298-7q9fkn8jnc1313jd4bk82tgoa1edmp1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942247664298-hv2k34m9rvk9hkceg8scmh0rghrl6170.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webneshin.flutterLearningFirebaseTutorial.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
